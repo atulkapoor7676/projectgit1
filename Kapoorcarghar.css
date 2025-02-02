@@ -1,0 +1,30 @@
+li{
+	display:inline-block;
+	padding:20px 16px;
+	border-color: blue;
+	background-color: lightgrey;
+}
+h1{
+	color:White;
+}
+h2{
+	color:white;
+	animation: forwards;
+	animation-direction: normal;
+}
+img{
+	
+
+}
+.
+ 
+  ul{
+  	list-style-type:disc;
+  	margin:0;
+  	padding:0;
+  	size: 100px;
+   
+  }
+  p{
+  	color: yellow;
+  }
